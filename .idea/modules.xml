@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-websocket-receiver-main/learn-websocket-receiver.iml" filepath="$PROJECT_DIR$/learn-websocket-receiver-main/learn-websocket-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-websocket-receiver-main.iml" filepath="$PROJECT_DIR$/.idea/learn-websocket-receiver-main.iml" />
+    </modules>
+  </component>
+</project>
